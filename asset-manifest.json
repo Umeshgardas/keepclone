@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/keepclone/static/css/main.b1c6bb06.css",
+    "main.js": "/keepclone/static/js/main.9fe3f68e.js",
+    "index.html": "/keepclone/index.html",
+    "main.b1c6bb06.css.map": "/keepclone/static/css/main.b1c6bb06.css.map",
+    "main.9fe3f68e.js.map": "/keepclone/static/js/main.9fe3f68e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1c6bb06.css",
+    "static/js/main.9fe3f68e.js"
+  ]
+}
